@@ -1,0 +1,22 @@
+#spring:
+#  mail:
+#    host: smtp.gmail.com
+#    username: pavadi.abhishek@gmail.com
+#    password: emgthvjzyhabgklr
+#    port: 587
+#    properties:
+#      mail:
+#        smtp:
+#          starttls:
+#            enable: true
+#          auth: true
+#          ssl:
+#           trust:smtp.gmail.com
+
+
+#    smtp:
+#     socketFactor:
+#       port:465
+
+
+
